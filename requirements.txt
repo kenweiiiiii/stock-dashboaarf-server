@@ -1,2 +1,6 @@
 flask~=3.1.0
 Flask-Cors~=5.0.0
+gevent~=24.11.1
+tushare~=1.4.19
+pandas~=2.2.3
+Flask-SocketIO~=5.5.1
